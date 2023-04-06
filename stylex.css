@@ -1,0 +1,64 @@
+.logo{
+    height: 15%;
+}
+header{
+    background-color: #0b1a52;
+    position:fixed;
+    width:100%;
+    z-index: 1;
+}
+
+.btn-ham{
+    color:black;
+}
+
+.top-tabs{
+    color: aliceblue;
+    text-decoration: none;
+}
+.top-tabs:hover{
+    color: orange;
+}
+#wall{
+    background:url('Images/LandingPageBanner-Desktop-min.jpg');
+    background-position: center center;
+    background-size: cover;
+    height: 85vh;
+    width: 100%;
+    padding-top: 4.8rem;
+}
+.wall-land{
+    position: absolute;
+    width: 60%;
+    bottom: 25vh;
+    left: 25%;
+}
+.image-fluid{
+    max-width: 100%;
+}
+.final-lamp{
+    background-color: #0b1a52;
+    font-weight:900;
+    height: 50vh;
+}
+.text-final{
+    font-size :200;
+    font-weight: 100;
+}
+.top-tab{
+    color: #0b1a52;
+    font-size: small;
+}
+.top-tab:hover{
+    color: #f9d404;
+}
+
+
+.back-to-top{
+    padding: 10px;
+    background-color: #FECB00;
+    border-radius: 5px;
+    position: fixed;
+    right: 15px;
+    bottom: 15px;
+}
